@@ -474,6 +474,8 @@ github.com/ncw/go-acd v0.0.0-20201019170801-fe55f33415b1 h1:nAjWYc03awJAjsozNehd
 github.com/ncw/go-acd v0.0.0-20201019170801-fe55f33415b1/go.mod h1:MLIrzg7gp/kzVBxRE1olT7CWYMCklcUWU+ekoxOD9x0=
 github.com/ncw/swift/v2 v2.0.0 h1:Q1jkMe/yhCkx7yAKq4bBZ/Th3NR+ejRcwbVK8Pi1i/0=
 github.com/ncw/swift/v2 v2.0.0/go.mod h1:z0A9RVdYPjNjXVo2pDOPxZ4eu3oarO1P91fTItcb+Kg=
+github.com/ncw/termbox-go v1.1.1-0.20210420123240-8b65a6f38a8e h1:1gQVOnMm7pQCfUetGvQa19IH0cWS4mhfGwYy/vQrW+I=
+github.com/ncw/termbox-go v1.1.1-0.20210420123240-8b65a6f38a8e/go.mod h1:T0cTdVuOwf7pHQNtfhnEbzHbcNyCEcVU4YPpouCbVxo=
 github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646/go.mod h1:jpp1/29i3P1S/RLdc7JQKbRpFeM1dOBd8T9ki5s+AY8=
 github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e h1:fD57ERR4JtEqsWbfPhv4DMiApHyliiK5xCTNVSPiaAs=
 github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e/go.mod h1:zD1mROLANZcx1PVRCS0qkT7pwLkGfwJo4zjcN/Tysno=

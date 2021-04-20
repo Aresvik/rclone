@@ -85,3 +85,5 @@ require (
 	storj.io/common v0.0.0-20210419115916-eabb53ea1332 // indirect
 	storj.io/uplink v1.4.6
 )
+
+replace github.com/nsf/termbox-go v1.1.0 => github.com/ncw/termbox-go v1.1.1-0.20210420123240-8b65a6f38a8e
